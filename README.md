@@ -39,7 +39,7 @@
 
 ---
 
-📊 **GitHub Stats**:
+⚡️ **GitHub Stats**:
 
 [![Jidé’s GitHub stats](https://github-readme-stats.vercel.app/api?username=JideTS)](https://github.com/JideTS)
 
