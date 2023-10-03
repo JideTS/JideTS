@@ -49,7 +49,7 @@
 
 ## ✨ Learn more:
 
-- [LinkedIn](https://www.linkedin.com/in/jidetidjaniserpos/)
-- [Portfolio](https://www.uxfol.io/jts2023)
+- [LinkedIn Profile](https://www.linkedin.com/in/jidetidjaniserpos/)
+- [Design Portfolio](https://www.uxfol.io/jts2023)
 
 Thanks for dropping by! 😊
