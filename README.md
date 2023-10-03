@@ -41,9 +41,9 @@
 
 📊 **GitHub Stats**:
 
-[![Jidé’s GitHub stats](https://github-readme-stats.vercel.app/api?username=JideTS&show_icons=true&count_private=true&theme=radical)](https://github.com/JideTS)
+[![Jidé’s GitHub stats](https://github-readme-stats.vercel.app/api?username=JideTS)](https://github.com/JideTS)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JideTS&layout=compact&theme=radical&count_private=true)](https://github.com/JideTS)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JideTS)](https://github.com/JideTS)
 
 ---
 
