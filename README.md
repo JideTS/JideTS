@@ -1,9 +1,5 @@
 # Hi there, I'm Jidé Tidjani-Serpos! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=JideTS)
-
----
-
 🎓 I'm a Full-Stack Development student at the University of Toronto.
 
 🎨 With over 10 years of experience in product design and a master's in business management.
@@ -27,7 +23,6 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
@@ -36,14 +31,6 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-
----
-
-## ⚡️ GitHub Stats:
-
-[![Jidé’s GitHub stats](https://github-readme-stats.vercel.app/api?username=JideTS)](https://github.com/JideTS)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JideTS)](https://github.com/JideTS)
 
 ---
 
