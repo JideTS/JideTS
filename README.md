@@ -36,6 +36,6 @@
 ## ✨ Learn more:
 
 - [LinkedIn Profile](https://www.linkedin.com/in/jidetidjaniserpos/)
-- [Portfolio]([https://www.jide.onrender.com](https://jide.onrender.com)
+- [Portfolio](https://jide.onrender.com)
 
 Thanks for dropping by! 😊
