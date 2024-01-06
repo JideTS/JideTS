@@ -36,6 +36,6 @@
 ## ✨ Learn more:
 
 - [LinkedIn Profile](https://www.linkedin.com/in/jidetidjaniserpos/)
-- [Design Portfolio](https://www.uxfol.io/jts2023)
+- [Portfolio](https://www.jide.onrender.com)
 
 Thanks for dropping by! 😊
