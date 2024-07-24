@@ -1,6 +1,6 @@
 # Hi there, I'm Jidé Tidjani-Serpos! 👋
 
-🎓 I'm a Full-Stack Development student at the University of Toronto.
+🎓 I'm a Full-Stack Developer.
 
 🎨 With over 10 years of experience in product design and a master's in business management.
 
