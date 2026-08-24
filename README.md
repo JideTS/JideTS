@@ -1,10 +1,37 @@
-# Hi there, I'm Jidé Tidjani-Serpos! 👋
+Hi there, I’m Jidé Tidjani-Serpos! 👋
 
-With over 15 years of expertise, I excel as a product and business model designer, developer, and entrepreneur. I specialize in crafting impactful digital experiences to enhance value creation and profitability. I am currently available for opportunities and keen to lend my skills to product design and full stack development endeavours in diverse digital projects. Let’s collaborate for success.
+I’m an AI Product Strategist, Product Designer, Full-Stack Developer, and Entrepreneur passionate about accelerating the delivery of digital products with AI.
 
----
+Over the past 15+ years, I’ve designed, built, and launched products across startups, consulting, and enterprise environments. Today, my work focuses on agentic AI workflows, rapid product validation, and turning ambitious ideas into production-ready applications in days rather than months.
 
-## ✨ Learn more:
+I enjoy working at the intersection of product strategy, UX, software engineering, and AI, building systems that are not only technically sound but also valuable to users and businesses.
+
+My current interests include:
+
+* 🤖 Agentic AI & AI-assisted software delivery
+* 🚀 Rapid product validation and MVPs
+* 🎯 Product strategy & UX design
+* ⚙️ Full-stack development (TypeScript, React, Next.js, Node.js)
+* 🏗️ Building and shipping AI-native products
+
+Always happy to connect with people building ambitious products or exploring what’s possible with AI.
+
+⸻
+
+🚀 Projects
+
+* Magimica — Accelerating digital product delivery with AI
+* Logosmose — AI-powered reasoning competitions
+* Traigger — Prompt engineering copilot
+* Demopulse — Civic intelligence and public debate platform
+
+⸻
+
+🌐 Learn more
 
 - [LinkedIn Profile](https://www.linkedin.com/in/jidetidjaniserpos/)
-- [Portfolio](https://jide.onrender.com)
+- [Portfolio](https://www.jide.tidjani-serpos.com)
+
+⸻
+
+Building products faster. Designing thoughtfully. Shipping relentlessly.
